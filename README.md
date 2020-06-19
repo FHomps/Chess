@@ -1,6 +1,8 @@
 # Chess
 It's chess. What did you expect?
+
 Made to support weird chess formats (non-square boards, notably).
+
 Work in progress. As of June 2020, only loads games.
 
 ### sfml-vscode-boilerplate
